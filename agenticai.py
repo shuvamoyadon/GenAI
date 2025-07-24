@@ -119,7 +119,7 @@ Then to output node with final answer.
 """
 
 # Hugging Face API Token
-HUGGINGFACEHUB_API_TOKEN="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"
+HUGGINGFACEHUB_API_TOKEN=""
 HUGGINGFACE_MODEL_ID="HuggingFaceH4/zephyr-7b-alpha"
 
 from huggingface_hub import login
